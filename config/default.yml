@@ -8,7 +8,12 @@ attributes:
         apps:
             - ansible
             - jenv
+            - awscli
+            - wget
         cask_apps:
             - intellij-idea-ce
+            - iterm2
+            - rubymine
+            - google-chrome
         cask_fonts:   
             - inconsolata
