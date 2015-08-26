@@ -15,10 +15,12 @@ attributes:
             - jenv
             - awscli
             - wget
+            - sbt
         cask_apps:
             - intellij-idea-ce
             - iterm2
             - rubymine
+            - rubymotion
             - google-chrome
             - java7
         cask_fonts:   
