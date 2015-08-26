@@ -23,5 +23,6 @@ attributes:
             - rubymotion
             - google-chrome
             - java7
+            - java
         cask_fonts:   
             - inconsolata
