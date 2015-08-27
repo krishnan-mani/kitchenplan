@@ -24,5 +24,6 @@ attributes:
             - google-chrome
             - java7
             - java
+            - flash
         cask_fonts:   
             - inconsolata
