@@ -16,6 +16,8 @@ attributes:
             - awscli
             - wget
             - sbt
+            - rpm 
+            - rpm2cpio
         cask_apps:
             - intellij-idea-ce
             - iterm2
@@ -25,5 +27,6 @@ attributes:
             - java7
             - java
             - flash
+            - genymotion
         cask_fonts:   
             - inconsolata
