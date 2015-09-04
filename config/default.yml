@@ -15,6 +15,7 @@ attributes:
             - rpm2cpio
             - mysql
             - pass
+            - docker-machine
         cask_apps:
             - intellij-idea-ce
             - iterm2
