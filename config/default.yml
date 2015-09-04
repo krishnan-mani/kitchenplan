@@ -19,6 +19,7 @@ attributes:
             - rpm 
             - rpm2cpio
             - mysql
+            - pass
         cask_apps:
             - intellij-idea-ce
             - iterm2
