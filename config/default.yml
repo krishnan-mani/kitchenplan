@@ -18,6 +18,7 @@ attributes:
             - sbt
             - rpm 
             - rpm2cpio
+            - mysql
         cask_apps:
             - intellij-idea-ce
             - iterm2
