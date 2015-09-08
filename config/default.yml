@@ -16,6 +16,7 @@ attributes:
             - mysql
             - pass
             - docker-machine
+            - docker
         cask_apps:
             - intellij-idea-ce
             - iterm2
