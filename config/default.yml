@@ -17,6 +17,7 @@ attributes:
             - pass
             - docker-machine
             - docker
+            - dynamodb-local
         cask_apps:
             - intellij-idea-ce
             - iterm2
