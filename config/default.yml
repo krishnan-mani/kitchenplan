@@ -29,5 +29,6 @@ attributes:
             - flash
             - genymotion
             - vagrant
+            - monodraw
         cask_fonts:   
             - inconsolata
