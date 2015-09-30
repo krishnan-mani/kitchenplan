@@ -30,5 +30,6 @@ attributes:
             - genymotion
             - vagrant
             - monodraw
+            - visual-studio-code
         cask_fonts:   
             - inconsolata
