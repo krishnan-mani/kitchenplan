@@ -31,5 +31,6 @@ attributes:
             - vagrant
             - monodraw
             - visual-studio-code
+            - atom
         cask_fonts:   
             - inconsolata
