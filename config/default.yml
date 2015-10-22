@@ -18,6 +18,7 @@ attributes:
             - docker-machine
             - docker
             - dynamodb-local
+            - mongodb
         cask_apps:
             - intellij-idea-ce
             - iterm2
